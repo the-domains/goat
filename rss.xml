@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Goat]]></title>
         <description><![CDATA[Goat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 06:51:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 05:14:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Medium 1]]></title>
-            <description><![CDATA[<article><h1>Medium 1</h1><p>What’s Next in Computing? — Software Is Eating the World — Medium</p></article>]]></description>
-            <link>undefinedmedium-1/index.html</link>
+            <description><![CDATA[<article><h1>Medium 1</h1><p>What’s Next in Computing? — Software Is Eating the World — Medium</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d318596-da6f-44c3-92ca-a847ad3b5fcc.png"></article>]]></description>
+            <link>https://thegrid.ai/goat/medium-1/index.html</link>
             <guid isPermaLink="false">5dbb476a-c8f4-41f3-81f8-77723a08a81f</guid>
-            <pubDate>Sat, 16 Jul 2016 06:50:59 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2016 05:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
